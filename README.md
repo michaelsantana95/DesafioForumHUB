@@ -1,4 +1,4 @@
-# Challenge Forum Hub - Jhonathan Pfeiffer Urbainski
+# Challenge Forum Hub
 
 API Rest do Challenge Forum Hub para o programa ONE (Oracle Next Education) em parceria com Alura.
 
@@ -122,7 +122,3 @@ Para obter ajuda sobre o projeto, você pode:
 - Consultar a documentação do Swagger.
 - O projeto está configurado para retornar mensagens claras de erro para facilitar a identificação e resolução dos problemas.
 - Enviar uma mensagem através do perfil do autor no GitHub.
-
-## Autores
-
-- **Jhonathan Pfeiffer Urbainski** - [GitHub](https://github.com/jhonathan-p)
